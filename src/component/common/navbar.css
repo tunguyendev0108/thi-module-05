@@ -1,0 +1,11 @@
+.active {
+    background-color: gray;
+    border-radius: 100rem;
+}
+.create-student {
+    position: absolute;
+    right: 0;
+}
+.time {
+    text-align: center;
+}
